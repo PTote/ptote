@@ -5,8 +5,6 @@
 
 - 🔭 I’m currently working on [cineGuate](https://github.com/PTote/cinema-front)
 
-- 👨‍💻 All of my projects are available at [KevynPosadas](KevynPosadas)
-
 - 💬 Ask me about **Angular, CSS, JavaScript, Jasmine, TypeScript**
 
 - 📫 How to reach me **tote.kev@gmail.com**
