@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Kevyn Posadas Tote</h1>
-<h3 align="center">A frontend developer from Guatemala</h3>
+<h3 align="center">A frontend developer from Guatemala. Passionate about JavaScript and practicing everything that this language offers</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ptote" alt="ptote" /></a> </p>
 
-- 🔭 I’m currently working on **cineGuate**
+- 🔭 I’m currently working on [cineGuate](https://github.com/PTote/cinema-front)
 
 - 👨‍💻 All of my projects are available at [KevynPosadas](KevynPosadas)
 
-- 💬 Ask me about **Angular, CSS, JavaScript, Jasmine**
+- 💬 Ask me about **Angular, CSS, JavaScript, Jasmine, TypeScript**
 
 - 📫 How to reach me **tote.kev@gmail.com**
 
